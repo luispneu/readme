@@ -14,3 +14,26 @@ img {
     height: auto;
     margin: 10px 0;
 }
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.container h1 {
+    color: #e74c3c; /* Cor vermelha para o título */
+}
+
+.container p {
+    color: #555;
+}
+
+.container a {
+    text-decoration: none;
+    color: #3498db; /* Cor azul para o link */
+    font-weight: bold;
+}
+
+.container a:hover {
+    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+}
+
